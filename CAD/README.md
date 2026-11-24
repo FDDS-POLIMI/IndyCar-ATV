@@ -1,1 +1,0 @@
-# IndyCar CAD models
